@@ -1,0 +1,64 @@
+#lm1  {
+    font-family:sans-serif;
+    background-color: lightcoral;
+    font-size: larger;
+    border: 2px solid black;
+}
+#lm3  {
+    font-family:sans-serif;
+    background-color: red;
+    font-size: x-large;
+    border: 2px solid black;
+}
+#lm4  {
+    font-family:sans-serif;
+    background-color: yellow;
+    font-size: x-large;
+    border: 2px solid black;
+}
+#lm2  {
+    font-size:large;
+}
+#gtable {
+    margin: 5px;
+    
+background-color: gray;
+border: 5px solid black;
+float: left;
+
+}
+form {
+    background-color: gray;
+    
+    
+}
+h1 {
+    text-align: center;
+    
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+    background-color: gray;
+}
+nav{
+    background-color: gray;
+    font-weight: bold;
+    color: black;
+}
+.navbar-default{
+    
+   color: black;
+}
+#custom1{
+    
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px ;
+    
+  }
+  div {
+      color: black;
+  }
